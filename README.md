@@ -82,7 +82,7 @@ funding behavior, exit strategies, and regional performance.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+https://liveastonac-my.sharepoint.com/:u:/r/personal/250422663_aston_ac_uk/Documents/Dashboard.pbix?csf=1&web=1&e=ZBSH4x 
 
 ---
 
@@ -97,5 +97,5 @@ funding behavior, exit strategies, and regional performance.
 
 ## 👤 Author
 **Your Name**
-- LinkedIn: linkedin.com/in/yourname
-- GitHub: github.com/yourname
+- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/samar-thorat01/) 
+- GitHub:https://github.com/samarthorat
