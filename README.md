@@ -3,14 +3,12 @@
 > An interactive Power BI dashboard analyzing 71 FinTech 
 > companies across funding, valuation, exits, and performance.
 
----
 
 ## 📊 Overview
 This dashboard was built to analyze the FinTech sector using 
 real startup data. It provides insights into company valuations, 
 funding behavior, exit strategies, and regional performance.
 
----
 
 ## 🗂️ Dataset
 - **Source:** Kaggle — startup_data.csv
@@ -19,7 +17,6 @@ funding behavior, exit strategies, and regional performance.
   Funding Amount, Valuation, Revenue, Employees, 
   Market Share, Profitable, Year Founded, Region, Exit Status
 
----
 
 ## 🔑 Key KPIs
 | Metric | Value |
@@ -33,7 +30,6 @@ funding behavior, exit strategies, and regional performance.
 | IPO Rate | 9.00% |
 | Acquisition Rate | 21.40% |
 
----
 
 ## 📈 Charts Included
 - Total Valuation by Region (Bar Chart)
@@ -45,7 +41,6 @@ funding behavior, exit strategies, and regional performance.
 - Growth by Founding Era (Area Chart)
 - Market Share Leaders (Funnel Chart)
 
----
 
 ## 🛠️ Tools Used
 - **Power BI Desktop** — dashboard building
@@ -53,7 +48,6 @@ funding behavior, exit strategies, and regional performance.
 - **DAX** — calculated measures and columns
 - **Kaggle** — data source
 
----
 
 ## 💡 DAX Measures Created
 - Total Valuation ($B)
@@ -67,7 +61,6 @@ funding behavior, exit strategies, and regional performance.
 - Avg Revenue Per Employee
 - Avg Market Share (%)
 
----
 
 ## 🧹 Data Transformations
 - Filtered dataset to FinTech industry only
@@ -79,12 +72,10 @@ funding behavior, exit strategies, and regional performance.
   - Revenue Per Employee
   - Founding Era
 
----
 
 ## 📸 Dashboard Preview
 https://liveastonac-my.sharepoint.com/:u:/r/personal/250422663_aston_ac_uk/Documents/Dashboard.pbix?csf=1&web=1&e=ZBSH4x 
 
----
 
 ## 🚀 How to Use
 1. Download the .pbix file
@@ -93,7 +84,6 @@ https://liveastonac-my.sharepoint.com/:u:/r/personal/250422663_aston_ac_uk/Docum
 4. Use slicers to filter by Region, Exit Status, 
    Unicorn status, Profitability
 
----
 
 ## 👤 Author
 **Your Name**
